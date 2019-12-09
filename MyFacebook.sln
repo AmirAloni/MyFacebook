@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C18_Ex03_Logic", "C18_Ex03_Logic\C18_Ex03_Logic.csproj", "{BDC08ABD-15CD-4501-BC96-65428C04AFC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C18_Ex03_UI", "C18_Ex03_UI\C18_Ex03_UI.csproj", "{08414A5E-FF3A-40AB-8692-961915811AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC08ABD-15CD-4501-BC96-65428C04AFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC08ABD-15CD-4501-BC96-65428C04AFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC08ABD-15CD-4501-BC96-65428C04AFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC08ABD-15CD-4501-BC96-65428C04AFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08414A5E-FF3A-40AB-8692-961915811AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08414A5E-FF3A-40AB-8692-961915811AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08414A5E-FF3A-40AB-8692-961915811AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08414A5E-FF3A-40AB-8692-961915811AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7485CF48-860C-4262-8286-7F668E83ACD2}
+	EndGlobalSection
+EndGlobal
